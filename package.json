@@ -3,8 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "antd": "^3.1.1",
+    "rc-scroll-anim": "^2.2.1",
     "react": "^16.2.0",
+    "react-document-title": "^2.0.3",
     "react-dom": "^16.2.0",
+    "react-intl": "^2.4.0",
     "react-scripts": "1.0.17"
   },
   "scripts": {
